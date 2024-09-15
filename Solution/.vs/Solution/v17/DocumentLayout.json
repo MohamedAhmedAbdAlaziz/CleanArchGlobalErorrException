@@ -1,12 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Asp .net API Project\\BookManagment\\Solution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|d:\\asp .net api project\\bookmanagment\\solution\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F74778D-338D-4968-83EC-F0AEF6FA5D64}|Core\\Core.csproj|d:\\asp .net api project\\bookmanagment\\solution\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F74778D-338D-4968-83EC-F0AEF6FA5D64}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB1EE95-FE4E-4991-B32A-7F49DEE7EE7B}|Infrastructure\\Infrastructure.csproj|d:\\asp .net api project\\bookmanagment\\solution\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB1EE95-FE4E-4991-B32A-7F49DEE7EE7B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|d:\\asp .net api project\\bookmanagment\\solution\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API",
+              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T11:31:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:27:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:27:08.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:26:30.733Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
