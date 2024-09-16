@@ -1,4 +1,4 @@
-﻿namespace Application
+﻿namespace BuildingBlocks
 {
     public class Class1
     {

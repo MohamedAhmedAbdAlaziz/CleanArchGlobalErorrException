@@ -1,12 +1,54 @@
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Asp .net API Project\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Asp .net API Project\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\Asp .net API Project\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 D:\Asp .net API Project\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

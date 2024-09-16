@@ -1,12 +1,56 @@
 D:\Asp .net API Project\BookManagment\Solution\Application\bin\Debug\net8.0\Application.deps.json
 D:\Asp .net API Project\BookManagment\Solution\Application\bin\Debug\net8.0\Application.dll
 D:\Asp .net API Project\BookManagment\Solution\Application\bin\Debug\net8.0\Application.pdb
+D:\Asp .net API Project\BookManagment\Solution\Application\bin\Debug\net8.0\Core.dll
+D:\Asp .net API Project\BookManagment\Solution\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\Asp .net API Project\BookManagment\Solution\Application\bin\Debug\net8.0\Core.pdb
+D:\Asp .net API Project\BookManagment\Solution\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.dll
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\Application.pdb
 D:\Asp .net API Project\BookManagment\Solution\Application\obj\Debug\net8.0\ref\Application.dll
+D:\BookManagment\Solution\Application\bin\Debug\net8.0\Application.deps.json
+D:\BookManagment\Solution\Application\bin\Debug\net8.0\Application.dll
+D:\BookManagment\Solution\Application\bin\Debug\net8.0\Application.pdb
+D:\BookManagment\Solution\Application\bin\Debug\net8.0\Core.dll
+D:\BookManagment\Solution\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\BookManagment\Solution\Application\bin\Debug\net8.0\Core.pdb
+D:\BookManagment\Solution\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.dll
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\refint\Application.dll
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\Application.pdb
+D:\BookManagment\Solution\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\Application.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\Core.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\Core.pdb
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\LAPTOP\OneDrive\Documents\BookManagment\Solution\Application\bin\Debug\net8.0\BuildingBlocks.pdb

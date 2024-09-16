@@ -1,22 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Asp .net API Project\\BookManagment\\Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|d:\\asp .net api project\\bookmanagment\\solution\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\application\\execptions\\booknotfoundexecption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|solutionrelative:application\\execptions\\booknotfoundexecption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\buildingblocks\\exceptions\\notfoundexcetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\exceptions\\notfoundexcetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\application\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|solutionrelative:application\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\api\\controllers\\erorrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|solutionrelative:api\\controllers\\erorrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\buildingblocks\\exceptions\\internalserverexcetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\exceptions\\internalserverexcetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F74778D-338D-4968-83EC-F0AEF6FA5D64}|Core\\Core.csproj|d:\\asp .net api project\\bookmanagment\\solution\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F74778D-338D-4968-83EC-F0AEF6FA5D64}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB1EE95-FE4E-4991-B32A-7F49DEE7EE7B}|Infrastructure\\Infrastructure.csproj|d:\\asp .net api project\\bookmanagment\\solution\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BB1EE95-FE4E-4991-B32A-7F49DEE7EE7B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535E5DF-712F-4D92-8649-26301029D15B}|API\\API.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|d:\\asp .net api project\\bookmanagment\\solution\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432CA728-F6BA-424C-A88E-D3D3EB0C17A4}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\buildingblocks\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\laptop\\onedrive\\documents\\bookmanagment\\solution\\buildingblocks\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96CB708-C5C0-40D7-A29C-831AB5B380CB}|BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +69,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "API",
-              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\API\\API.csproj",
-              "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\API\\API.csproj",
-              "RelativeToolTip": "API\\API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-15T11:31:54.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\Core\\Class1.cs",
-              "RelativeDocumentMoniker": "Core\\Class1.cs",
-              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\Core\\Class1.cs",
-              "RelativeToolTip": "Core\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAE4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T11:27:22.697Z",
+              "WhenOpened": "2024-09-15T19:09:38.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "BookNotFoundExecption.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\Application\\Execptions\\BookNotFoundExecption.cs",
+              "RelativeDocumentMoniker": "Application\\Execptions\\BookNotFoundExecption.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\Application\\Execptions\\BookNotFoundExecption.cs",
+              "RelativeToolTip": "Application\\Execptions\\BookNotFoundExecption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T11:27:08.488Z"
+              "WhenOpened": "2024-09-15T18:18:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeToolTip": "BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:05:48.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\Application\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\Application\\Services\\BookServices.cs",
+              "RelativeToolTip": "Application\\Services\\BookServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:05:17.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:05:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuildingBlocks",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T18:06:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T16:11:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InternalServerExcetion.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\InternalServerExcetion.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\InternalServerExcetion.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\InternalServerExcetion.cs",
+              "RelativeToolTip": "BuildingBlocks\\Exceptions\\InternalServerExcetion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:11:13.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Asp .net API Project\\BookManagment\\Solution\\Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Application\\Class1.cs",
-              "ToolTip": "D:\\Asp .net API Project\\BookManagment\\Solution\\Application\\Class1.cs",
-              "RelativeToolTip": "Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "NotFoundExcetion.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\NotFoundExcetion.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\NotFoundExcetion.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\NotFoundExcetion.cs",
+              "RelativeToolTip": "BuildingBlocks\\Exceptions\\NotFoundExcetion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T11:26:30.733Z"
+              "WhenOpened": "2024-09-15T16:11:11.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:15:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "BuildingBlocks\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:11:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Class1.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Class1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\BuildingBlocks\\Class1.cs",
+              "RelativeToolTip": "BuildingBlocks\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:10:14.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErorrController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Controllers\\ErorrController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ErorrController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\Controllers\\ErorrController.cs",
+              "RelativeToolTip": "API\\Controllers\\ErorrController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:17:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIUUAAAAAAAAAAAmwI8UAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-15T14:33:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\OneDrive\\Documents\\BookManagment\\Solution\\API\\WeatherForecast.cs",
+              "RelativeToolTip": "API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:24:20.288Z",
+              "EditorCaption": ""
             }
           ]
         }
